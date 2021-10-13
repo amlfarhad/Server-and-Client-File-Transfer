@@ -4,7 +4,7 @@ from threading import Thread
 from SocketServer import ThreadingMixIn
 
 # TCP_IP = socket.gethostbyaddr("your-ec2-public_ip")[0]
-TCP_IP = socket.gethostbyaddr("3.129.88.101")[0]
+TCP_IP = socket.gethostbyaddr("3.129.88.101")[0] #(Example)
 TCP_PORT = 60001
 BUFFER_SIZE = 1024
 
