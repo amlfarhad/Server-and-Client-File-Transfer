@@ -1,7 +1,8 @@
 import socket
 import time
 
-TCP_IP = '3.17.58.185'
+#TCP_IP = 'AWS_EC2_IP"
+TCP_IP = '3.17.58.185' #(Example)
 TCP_Port =9001
 
 BUFFER_SIZE =1024
